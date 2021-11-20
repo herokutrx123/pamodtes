@@ -5,4 +5,3 @@ python-telegram-bot==13.7
 Sphinx
 requests
 github3.py==2.0.0
-telegram-bot
