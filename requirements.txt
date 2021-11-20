@@ -1,0 +1,8 @@
+beautifulsoup4
+thefuzz==0.19.0
+python-Levenshtein
+python-telegram-bot==13.7
+Sphinx
+requests
+github3.py==2.0.0
+telegram-bot
